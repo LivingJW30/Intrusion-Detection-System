@@ -1,8 +1,8 @@
 //pin values 
 const int trigPin = 9;
 const int echoPin = 8;
-const int ledpin = 7;
-const int buzzpin = 6;
+const int ledPin = 7;
+const int buzzPin = 6;
 
 # define THRES 112.00
 
@@ -13,8 +13,8 @@ void setup() {
   //config pins to respective Input/Output mode 
   pinMode(trigPin, OUTPUT);
   pinMode(echoPin, INPUT);
-  pinMode(ledpin, OUTPUT);
-  pinMode(buzzpin, OUTPUT);
+  pinMode(ledPin, OUTPUT);
+  pinMode(buzzPin, OUTPUT);
 }
 
 //alarm function using pass by reference

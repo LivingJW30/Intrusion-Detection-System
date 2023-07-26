@@ -1,4 +1,5 @@
 # Intrusion-Detection-System
-Also known as the IDS, this Arduino project is a simple way to tell if someone is where they shouldn't be!
 
-## Updates coming soon....
+#### *Security is my passion!* 
+Hence the reasoning behind this project. Everyone wants their privacy. Might it be from a nosy sibling or a pesky burgalar. This Intrusion Detection System AKA IDS was made to counter just this. 
+## 

@@ -10,7 +10,7 @@ This project is a simple introduction to embedded systems and the basics of circ
 1. 
 ![Circuit Diagram](IDS.png)
 ## Resources
-+ [TINKERCAD](https://oia.yello.co/app/collect/form) was used for protoyping.
++ [TINKERCAD](https://www.tinkercad.com/dashboard?type=circuits&collection=designs) was used for protoyping.
 + [Arduino Get Started](https://arduinogetstarted.com/) was used for documentation.
 
 

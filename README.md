@@ -14,4 +14,4 @@ This project is a simple introduction to embedded systems and the basics of circ
 + [Arduino Get Started](https://arduinogetstarted.com/) was used for documentation.
 
 
-[def]: "C:\Users\Livin\OneDrive\Pictures\Screenshots\IDS.png"
+[def]: "C:\Users\Livin\OneDrive\Pictures\Screenshots"
